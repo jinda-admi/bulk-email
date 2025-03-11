@@ -2,6 +2,5 @@ Flask
 gunicorn
 pandas
 Werkzeug
-smtplib
 email
 openpyxl
